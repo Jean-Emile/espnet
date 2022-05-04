@@ -33,7 +33,7 @@ requirements = {
         "pyworld>=0.2.10",
         "espnet_tts_frontend",
         # ENH
-        "ci_sdr",
+        # "ci_sdr",
         "pytorch_wpe",
     ],
     # train: The modules invoked when training only.
