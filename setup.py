@@ -45,7 +45,7 @@ requirements = {
         "nara_wpe>=0.0.5",
         "torch_complex",
         "pytorch_wpe",
-        "ci_sdr",
+        #"ci_sdr",
         # NLU postencoder related
         "transformers>=4.9.1",
     ],
